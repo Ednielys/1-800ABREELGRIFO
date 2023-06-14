@@ -1,0 +1,86 @@
+body {
+  background-color: #f8fadb;
+  font-family: 'Carter One', cursive;
+  text-align: center;
+}
+
+#enfrontemos {
+  color: #008cb4
+}
+
+#reporta{
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #ffa57d
+}
+
+.registra{
+  margin-top: 100px;
+}
+
+.photos {
+  width: 200px;
+  height: 200px;
+}
+ 
+.square {
+        width: 1,200px;
+        height: 200px;
+        background-color: #94e3fe;
+    }
+
+#info{
+  margin-bottom: 0;
+  text-align: center;
+  color: #be38f3;
+font-family: 'Shadows Into Light', cursive;  
+}
+
+.button{
+  align-content: center;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.lista{
+  margin: 0 10px 0 10px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#navega {
+        width: 1,200px;
+        height: 40px;
+  border: solid;
+  border-color: #d357fe;
+  text-align: center;
+  background-color: #ffa57d;
+  color: black
+  font-family: 'Carter One', cursive;
+    }
+
+#watergif {
+  width: 200px;
+  height: 100px;
+}
+
+#mision{
+  color: #fecb3e
+}
+
+#empezo{
+  color:coral
+}
+
+#sol{
+  color: #53d5fd
+}
+
+#mano{
+  color:green
+}
+
+.registra{
+  color: #d357fe
+}
